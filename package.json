@@ -1,6 +1,6 @@
 {
   "name": "use-sort-by-array",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Sort an array using the values of another array",
   "license": "MIT",
   "author": "Quang Hoang <me@kvooak.io> (https://kvooak.io)",
@@ -11,10 +11,19 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
-  "keywords": ["react", "custom hooks", "sort array", "sort by array"],
+  "keywords": [
+    "react",
+    "react-hooks",
+    "custom-hooks",
+    "sort-array",
+    "sort-by-array"
+  ],
   "source": "src/index.js",
   "main": "src/index.js",
   "bugs": {
     "url": "https://github.com/kvooak/use-sort-by-array/issues"
+  },
+  "dependencies": {
+    "react": "^17.0.2"
   }
 }
