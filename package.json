@@ -1,7 +1,7 @@
 {
   "name": "use-sort-by-array",
-  "version": "0.2.1",
-  "description": "Sort an array using the values of another array",
+  "version": "0.2.2",
+  "description": "Sort an array of objects or arrays, using the value of another array",
   "license": "MIT",
   "author": "Quang Hoang <me@kvooak.io> (https://kvooak.io)",
   "repository": {
@@ -21,6 +21,10 @@
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
   "source": "src/index.ts",
+  "files": [
+    "dist/*",
+    "src/*"
+  ],
   "bugs": {
     "url": "https://github.com/kvooak/use-sort-by-array/issues"
   },

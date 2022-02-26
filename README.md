@@ -31,5 +31,5 @@ const sortedNames = useSortByArray(nameArray, sortingArray, 'order');
 
 ```
 
-### Contact me at me@kvooak.io for any questions, feedback, or suggestions.
-### My blog: https://kvooak.io
+### Contact me at me@kvooak.io
+### https://kvooak.io
