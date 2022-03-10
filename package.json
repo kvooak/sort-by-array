@@ -1,9 +1,9 @@
 {
   "name": "sort-by-array",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "description": "Sort an array of objects or sub-arrays using a reference array.",
   "license": "MIT",
-  "author": "Quang Hoang <me@kvooak.io> (https://kvooak.io)",
+  "author": "Quang Hoang <quang.hd@gmx.de>",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kvooak/sort-by-array.git"

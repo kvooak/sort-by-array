@@ -2,8 +2,6 @@
 
 Sort an array of objects or sub-arrays using a reference list.
 
-Examples and documentation: https://kvooak.io
-
 # Quick example:
 
 ```js
@@ -40,5 +38,3 @@ const nestedArray = [
 const sortNestedBy = [5, '1', 2, '3', '4'];
 const sortedArrays = sortByArray(nestedArray, sortNestedBy, 1);
 ```
-
-### Contact me at me@kvooak.io
